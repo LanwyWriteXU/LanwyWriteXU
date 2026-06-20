@@ -13,7 +13,7 @@ I can use C++, Python, but my strongest skill is JavaScript. I was introduced to
 
 To be honest, Scratch is a great toy for programmers. Even though some people might say it's not a programming language, once you get in touch with it, you'll be "Wow".
 
-So I want to do something for Scratch, like [AstraEditor](https://github.com/AstraEditor).
+So I want to do something for Scratch, like [AstraEditor](https://github.com/AstraEditor).Or making some funny toys, like [Astra 3D Engine](https://github.com/Astra3DEngine).
 
 ***
 
@@ -42,7 +42,7 @@ So I want to do something for Scratch, like [AstraEditor](https://github.com/Ast
 
 # GitHub
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LanwyWriteXU)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LanwyWriteXU)
 
 ![GitHub statistics](https://stats.justsong.cn/api/github?username=LanwyWriteXU&theme=onedark)
 
@@ -51,3 +51,12 @@ So I want to do something for Scratch, like [AstraEditor](https://github.com/Ast
 [Email](mailto:zdlanwy@foxmail.com)
 
 QQ: 3091949883
+
+***
+<div align="center">
+
+<img src="NEKO-LOGO.svg" style="height: 40px;"/>
+
+**CREATE DREAM, HOLD FATE, CHANGE WORLD**
+
+</div>
