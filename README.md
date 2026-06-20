@@ -57,6 +57,6 @@ QQ: 3091949883
 
 <img src="NEKO-LOGO.svg" style="height: 40px;"/>
 
-**CREATE DREAM, HOLD FATE, CHANGE WORLD**
+**CREATE DREAM, CLUTCH FATE, CHANGE WORLD**
 
 </div>
